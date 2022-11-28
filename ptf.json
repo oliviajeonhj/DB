@@ -1,0 +1,61 @@
+[
+  {
+    "ptfImg":["/img/ptfmain/1.jpg","/img/ptfmain/2.jpg","/img/ptfmain/3.jpg"],
+    "ptfDetail":{
+      "title":"MUSTAD Promotion Marketing Page",
+      "description":"머스타드앱 홍보를 위하여 광고 페이지를 기획 및 제작 하였습니다.",
+      "hash":"#홍보물제작 #지하철광고 #매장광고"
+    },
+    "ptfStacks":[
+      {
+        "stacks":{
+          "lang1":["HTML/CSS","99%","/img/stacks/1.jpg"],
+          "lang2":["JAVASCRIPT","1%","/img/stacks/1.jpg"]
+        },
+        "framework":{
+          "frame1":["BOOTSTRAP-v5.1", "30%", "/img/stacks/1.jpg"]
+        },
+        "cms" : {
+          "manage1":["","",""]
+        }
+      },
+      {
+        "part1":["PLAN", "50%"],
+        "part2":["DESIGN", "30%"],
+        "part3":["IMPLEMENT", "50%"]
+      }
+    ],
+    "ptfWork":[
+      {
+        "period":"제작소요기간 : 5일"
+      }
+    ],
+    "ptfLink":[
+      {
+        "btnImg":"/img/btnimg/1.jpg",
+        "btnLink":"https://olivia215.cafe24.com/mustad/",
+        "btnTarget":"_blank",
+        "btnClass":"btnPtf"
+      },
+      {
+        "btnImg":"/img/btnimg/2.jpg",
+        "btnLink":"https://olivia215.cafe24.com/mustad/",
+        "btnTarget":"_blank",
+        "btnClass":"btnPtf"
+      },
+      {
+        "btnImg":"/img/btnimg/3.jpg",
+        "btnLink":"https://olivia215.cafe24.com/mustad/",
+        "btnTarget":"_blank",
+        "btnClass":"btnPtf"
+      },
+      {
+        "btnImg":"/img/btnimg/4.jpg",
+        "btnLink":"https://olivia215.cafe24.com/mustad/",
+        "btnTarget":"_blank",
+        "btnClass":"btnPtf"
+      }
+    ],
+    "ptfClass":"oliviaptf"
+  }
+]

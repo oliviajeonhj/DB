@@ -1,0 +1,26 @@
+[
+  {
+    "navTitle": "PORTFOLIO",
+    "navLink": "#ptf",
+    "navTarget": "",
+    "navClass": "oliviaNav",
+    "navAtag": "",
+    "isNav": true
+  },
+  {
+    "navTitle": "REFERENCE",
+    "navLink": "#ref",
+    "navTarget": "",
+    "navClass": "oliviaNav",
+    "navAtag": "",
+    "isNav": true
+  },
+  {
+    "navTitle": "CONTACT",
+    "navLink": "#contact",
+    "navTarget": "",
+    "navClass": "oliviaNav",
+    "navAtag": "",
+    "isNav": true
+  }
+]
